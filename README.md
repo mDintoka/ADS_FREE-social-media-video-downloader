@@ -33,7 +33,7 @@ This tool provides a **clean, fast, and ad-free way** to download videos directl
 ```bash
 git clone https://github.com/mDintoka/ADD_FREE-social-media-video-downloader.git
 cd ADD_FREE-social-media-video-downloader
-social-media-video-downloader
+social-media-video-downloader.py
 ```
 
 ---
